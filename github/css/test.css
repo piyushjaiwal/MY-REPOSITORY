@@ -1,0 +1,30 @@
+
+.blue {
+  width: 200px;
+  height:200px;
+  position: relative;
+  z-index: 2;
+  background-color: blue;
+}
+.violet {
+  width: 200px;
+  height:200px;
+  position: relative;
+  z-index: 4;
+  background-color: violet;
+}
+.purple {
+  width: 200px;
+  height:200px;
+  position: relative;
+  z-index: 1;
+  background-color: purple;
+}
+.green {
+  width: 200px;
+  height:200px;
+  position: relative;
+  z-index: 3;
+  background-color: green;
+  top: -4em;
+}
