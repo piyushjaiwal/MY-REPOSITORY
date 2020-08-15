@@ -178,7 +178,7 @@ footer{
     float: none;
     text-align: center;
     width: 100%;
-   display:block;
+   display:none;
   }
   header{
     padding-bottom: 20px;
