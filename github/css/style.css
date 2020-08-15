@@ -131,6 +131,7 @@ header a:hover{
   margin-top: 10px;
   margin-bottom: 10px;
 
+
 }
 /*sidebar*/
 aside#sidebar{
@@ -177,7 +178,7 @@ footer{
     float: none;
     text-align: center;
     width: 100%;
-
+   display:block;
   }
   header{
     padding-bottom: 20px;
